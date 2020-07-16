@@ -1,0 +1,8 @@
+name: ChaosMod
+version: ${project.version}
+main: matthewa.chaosmod.ChaosMod
+api-version: 1.15
+description: Chaos
+commands:
+  chaos:
+    description: Do things with the chaos mod
